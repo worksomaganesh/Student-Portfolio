@@ -1,11 +1,9 @@
 # Contact
 
-Use only professional contact information you are comfortable making public.
+- **Name:** Soma Ganesh
+- **GitHub:** https://github.com/worksomaganesh
+- **Portfolio repository:** https://github.com/worksomaganesh/Student-Portfolio
 
-- **Name:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** https://github.com/your-username
-- **LinkedIn:** Add your profile URL if available
-- **Location:** Optional — city or region only
+GitHub is the public contact route provided for this portfolio. No email address, LinkedIn profile, telephone number, or location is published because no separate public contact details were supplied for this page.
 
-**Privacy reminder:** Do not publish your home address, passwords, access tokens, or other sensitive information in a public repository.
+**Privacy note:** Do not publish private contact information, home addresses, passwords, access tokens, or API keys in this repository.
