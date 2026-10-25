@@ -1,34 +1,37 @@
-# Student Portfolio
+# Soma Ganesh — Student Portfolio
 
-A beginner-friendly portfolio website for practising Git and GitHub workflows.
+A small, responsive portfolio for my learning journey as a **first-year B.Tech student in Artificial Intelligence and Machine Learning (AIML) at Aditya University**.
 
-## Project contents
-- `index.html` — main portfolio webpage
-- `style.css` — page styling
-- `about.md` — introduction and career objective
-- `skills.md` — technical skills
-- `projects.md` — academic and personal project descriptions
-- `education.md` — education and achievements
-- `contact.md` — professional contact information
-- `contributions/` — individual student Git/GitHub learning notes
-- `.gitignore` — files Git should ignore
+I use this repository to document what I am learning, practise Git/GitHub collaboration, and share ongoing software prototypes. Project descriptions reflect their current maturity; they are not claims of production readiness.
 
-## View the website
-Open `index.html` in a web browser. No backend or installation is required.
+## Explore the portfolio
 
-## GitHub practical assessment
-1. Fork the repository to your GitHub account.
-2. Clone your fork to your computer.
-3. Create a branch named `improve-documentation`.
-4. Add a uniquely named Markdown file inside `contributions/`, using your roll number as the filename, for example `YOUR_ROLL_NUMBER.md`.
-5. Commit and push the change to your fork.
-6. Submit your fork URL to the trainer.
+- [About me](about.md)
+- [Technical skills and current learning goals](skills.md)
+- [Projects and prototypes](projects.md)
+- [Education](education.md)
+- [Contact and public links](contact.md)
 
-## Contribution file requirements
-Your file should include:
-- Name and roll number
-- Three Git commands and what they do
-- The purpose of GitHub
-- One benefit of using branches
+## Featured work
 
-**Important:** Replace placeholders with appropriate information. Do not publish passwords, access tokens, API keys, home addresses, or other sensitive information.
+- [AI Agent Firewall — agent-boundary](https://github.com/worksomaganesh/ai-agent-firewall): a Linux-first educational security prototype for constraining local AI coding-agent sessions. **Not production endpoint protection.**
+- [AI PR Verification Agent](https://github.com/worksomaganesh/ai-pr-verification-agent): an evolving evidence-backed pull-request verification project. Check its README and open pull requests for the latest phase status.
+
+## View locally
+
+Open `index.html` in a browser. The site uses plain HTML and CSS; no package installation, build step, or backend is required.
+
+## Git and GitHub practical assessment
+
+This repository uses an existing Git history and the `main` branch. The assessment workflow uses:
+- `add-projects` for evidence-based project descriptions and a pull request into `main`.
+- `add-certifications` for skills and education updates and a pull request into `main`.
+
+No certifications, grades, or awards have been listed unless independently confirmed. The assessment contribution to the trainer's repository is a separate task.
+
+## Repository structure
+
+- `index.html` — portfolio webpage
+- `style.css` — responsive styling
+- `about.md`, `skills.md`, `projects.md`, `education.md`, `contact.md` — editable portfolio details
+- `.gitignore` — files to exclude from Git
